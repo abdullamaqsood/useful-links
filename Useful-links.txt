@@ -1,0 +1,3 @@
+React/React-Native/Node
+1) For installing the android and ios folders in react-native app
+https://stackoverflow.com/questions/44270504/react-native-ios-and-android-folders-not-present
